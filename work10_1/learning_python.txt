@@ -1,0 +1,8 @@
+In Python you can learned the variable and simple data types.
+In Python you can learned the list.
+In Python you can learned the if statements.
+In Python you can learned the dictionaries.
+In Python you can learned the user input and while loops.
+In Python you can learned the functions
+In Python you can learned the classes
+In Python you can learned the files and exceptions.
